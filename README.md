@@ -23,29 +23,6 @@ A modern calculator application built with React, featuring a clean design and c
 - Express (Development Server)
 - Node.js
 
-## Project Structure
-
-src/
-├── components/
-│ ├── Calculator/
-│ │ ├── index.js
-│ │ ├── Calculator.js
-│ │ ├── Calculator.css
-│ │ └── constants.js
-│ ├── History/
-│ │ ├── index.js
-│ │ ├── History.js
-│ │ └── History.css
-│ └── ViewSwitch/
-│ ├── index.js
-│ ├── ViewSwitch.js
-│ ├── ViewSwitch.css
-│ └── constants.js
-├── App.js
-├── index.js
-├── index.html
-└── index.css
-
 ## Installation
 
 1. Clone the repository
