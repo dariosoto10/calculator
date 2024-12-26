@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Production
+/build
+/dist
+
+# Development
+.env

@@ -1,0 +1,28 @@
+.switch {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 10px;
+  font-family: 'Inter', sans-serif;
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #f0f0f0;
+  transition: all 0.2s;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: -0.2px;
+  color: #666;
+}
+
+.button.active {
+  background-color: #5c6bc0;
+  color: white;
+}
+
+.button:hover:not(.active) {
+  background-color: #e0e0e0;
+} 
